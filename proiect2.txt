@@ -1,0 +1,115 @@
+begin program
+
+clasa test < privat clasa B
+begin
+privat int a[]={"ad","a","bc12",""};
+privat int c,a[]={};
+protected bool a[3];
+public float c[]={1,2,"a"};
+public const float c=12.99;
+end
+
+int functie(int a, int v,bool b[10])
+begin
+int v;
+const int c=9;
+bool c[12],a;
+int a,v[]={1,2,"asd",""};
+a=7+c;
+cd=8;
+
+if(e+1<=1 && ih-4==9+5 || (ig/4)+2<0)then
+	begin
+	int a;
+	int v;
+	end
+else	
+	begin
+	int a;
+	end
+
+while(!(a==0) && !(a) && a) do
+begin
+
+int a;
+int id=1,v[9];
+if(e+1<=1 && ih-4==9+5 || (ig/4)+2<0)then
+	begin
+	int a;
+	int v;
+	end
+else	
+	begin
+	int a;
+	end
+
+end
+
+for( i=1 down_to j+l) do
+begin
+int i;
+end
+
+do
+begin
+i=0;
+end
+while (i<=0 && !(i>10));
+
+return functie2(a,9,f(a,f(b)));
+end
+
+
+main
+begin
+
+masina c;
+int v;
+bool c[12],a;
+int a,v[]={1,2,"asd",""};
+a=7;
+cd=8;
+
+if(e+1<=1 && ih-4==9+5 || (ig/4)+2<0)then
+	begin
+	int a;
+	int v;
+	end
+else	
+	begin
+	int a;
+	end
+
+while(!(a==0) && !(a) && a) do
+begin
+
+int a;
+int id=1,v[9];
+if(e+1<=1 && ih-4==9+5 || (ig/4)+2<0)then
+	begin
+	int a;
+	int v;
+	end
+else	
+	begin
+	int a;
+	end
+
+end
+
+for( i=1 down_to 3) do
+begin
+int i;
+end
+
+do
+begin
+i=0;
+end
+while (i<=0 && !(i>10));
+
+return functie2(a,9,f(a,f(b)));
+const int c=10;
+end
+
+end
